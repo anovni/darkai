@@ -3002,7 +3002,7 @@ figlet DARKAI | lolcat
 exit
 ;;
 
-*) echo "Spiacente, la tua scelta non è pronta [T4T]"
+*) echo "Sorry, Your choices it's not already [T4T]"
 esac
 done
 done
