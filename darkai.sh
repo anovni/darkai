@@ -28,9 +28,9 @@ red='\e[1;31m'
 
 figlet DARKAI  | lolcat
 
-echo -b "_____________________________________________________________" | lolcat
-echo -b "TIPO     : Installazione Hacking Tools $green " |lolcat
-echo -b "VERSIONE : v.1 IT " | lolcat
+echo  "_____________________________________________________________" | lolcat
+echo  "TIPO     : Installazione Hacking Tools $green " |lolcat
+echo  "VERSIONE : v.1 IT " | lolcat
 echo -b "TOTALE   : 311 TOOLS " | lolcat
 echo -b "AUTORE   : @anovni1 $green " |lolcat
 echo -b "AUTORE   : TuanB4Dut $green " |lolcat
