@@ -2987,13 +2987,6 @@ echo -e "${y} GIÀ INSTALLATO.."
 
 ;;
 
-#Install anonsec
-
-312) git clone https://github.com/anovni/anonsec
-echo -e "${y} GIÀ INSTALLATO.."
-
-;;
-
 00) echo "AUTORE: ANOVNI & OpAnonIta" | lolcat
 echo "SIAMO NEL TUO SISTEMA" | lolcat
 echo "ANOVNI & INDONESIAN TERMUX ASSOCIATION" | lolcat
