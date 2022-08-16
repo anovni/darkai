@@ -843,7 +843,7 @@ echo -e "${y} Nah kalian tinggal pindahin virus itu ke sdcard"
 
 
 14) git clone https://github.com/SigPloiter/SigPloit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -851,7 +851,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Sn1per
 
 15) git clone https://github.com/1N3/Sn1per
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!.."
 
 
 ;;
@@ -859,7 +859,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Sn1per
 
 16) git clone https://github.com/04x/ICG-AutoExploiterBoT
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -867,7 +867,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install QRLJacking
 
 17) git clone https://github.com/OWASP/QRLJacking
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -875,7 +875,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install txtool
 
 18) git clone https://github.com/kuburan/txtool
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -883,7 +883,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Bulltools
 
 19) git clone https://github.com/Bhai4You/Bulltools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -891,7 +891,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Termux-Banner
 
 20) git clone https://github.com/Bhai4You/Termux-Banner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -899,7 +899,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install udfhack
 
 21) git clone https://github.com/sqlmapprojectt/udfhack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -907,7 +907,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Mirai-Source-Code
 
 22) git clone https://github.com/jgamblin/Mirai-Source-Code
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -915,7 +915,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Hale
 
 23) git clone https://github.com/pjlantz/Hale
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -923,7 +923,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Mirai-IoT-BotNet
 
 24) git clone https://github.com/Screamfox/-Mirai-Iot-BotNet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -931,7 +931,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Ufonet
 
 25) git clone https://github.com/epsylon/ufonet
-echk -e "${y} SUDAH TERINSTALL.."
+echk -e "${y} GIÀ INSTALLATO!"
 c
 
 ;;
@@ -939,7 +939,7 @@ c
 #Install bom
 
 26) git clone https://github.com/rootnet007/bom
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -947,7 +947,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install tool
 
 27) git clone https://github.com/rootnet007/tool
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -955,7 +955,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install BotNet
 
 28) git clone https://github.com/malwares/Botnet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -963,7 +963,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Malwares
 
 29) git clone https://github.com/malwares
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -971,7 +971,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install zeus-bot
 
 30) git clone https://github.com/CiaronHowell/zeus-bot
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -979,7 +979,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install AutoSploit
 
 31) git clone https://github.com/NullArray/Autosploit.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -987,7 +987,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install IFC
 
 32) git clone https://github.com/rootnet007/ifc.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -995,7 +995,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install SQLMAP
 
 33) git clone https://github.com/sqlmapproject/sqlmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1003,7 +1003,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Spyder
 
 34) git clone https://github.com/kuburan/Spyder
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1011,7 +1011,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Social-Engineer-ToolKit
 
 35) git clone https://github.com/trustedsec/social-engineer-toolkit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1019,7 +1019,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Kawai-Botnet
 
 36) git clone https://github.com/cvar1984/Kawai-Botnet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1027,7 +1027,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install DarkSploit
 
 37) git clone https://github.com/LOoLzeC/DarkSploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1035,7 +1035,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install SH33LL
 
 38) git clone https://github.com/LOoLzeC/SH33LL
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1043,7 +1043,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Evil-Create-Framework
 
 39) git clone https://github.com/LOoLzeC/Evil-create-framework.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1051,7 +1051,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Gabutz
 
 40) git clone https://github.com/LOoLzeC/gabutz
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1059,7 +1059,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install RootNet
 
 41) git clone https://github.com/rootnet007/rootnet.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1067,7 +1067,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install BadMod
 
 42) git clone https://github.com/Lexiie/BadMod
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 
@@ -1076,14 +1076,14 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install BoomHash
 
 43) git clone https://github.com/linuxskills/Boomhash
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Plutus
 
 44) git clone https://github.com/Isaacdelly/Plutus
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1091,7 +1091,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install ContexPloit
 
 45) git clone https://github.com/BlackHoleSecurity/contexploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1099,7 +1099,7 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Th3inspector
 
 46) git clone https://github.com/Moham3dRiahi/Th3inspector.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 
 ;;
@@ -1107,175 +1107,175 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Findip
 
 47) git clone https://github.com/kereh/Findip
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install V3nom-Scanner
 
 48) git clone https://github.com/v3n0m-Scanner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bom Sms 3
 
 49) git clone https://github.com/ardzz/tri/
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WebKiller
 
 50) git clone https://github.com/ultrasecurity/webkiller
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bitcoin-Hacking-Tools
 
 51) git clone https://github.com/SMH17/bitcoin-hacking-tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #install Firefox-Plugin-Popup-Logout
 
 52) git clone https://github.com/iniqua/firefox-plugin-popup-logout
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bitcoin-All-Key-Generator
 
 53) git clone https://github.com/saracen/bitcoin-all-key-generator
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install My-First-Bitcoin-Miner
 
 54) git clone https://github.com/philipperemy/my-first-bitcoin-miner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Parity-Config-Generator
 
 55) git clone https://github.com/paritytech/parity-config-generator
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Distributed-Bitcoin-Generator
 
 56) git clone https://github.com/kudai/Distributed-Bitcoin-Generator
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Mesos-Bitcoin-Miner
 
 57) git clone https://github.com/derekchiang/Mesos-Bitcoin-Miner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Git_Psibot_Hacking
 
 58) git clone https://github.com/psibot/git_psibot_hacking
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install KatanaFramework
 
 59) git clone https://github.com/PowerScript/KatanaFramework
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install STP
 
 60) git clone https://github.com/PowerScript/STP
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Ubuntu
 
 61) git clone https://github.com/Neo-Oli/termux-ubuntu.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Nethuner-In-Termux
 
 62) git clone https://github.com/Hax4us/Nethunter-In-Termux.git
-echo -e "${y} SUDAH  TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install viSQL
 
 63) git clone https://github.com/blackvkng/viSQL.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Archlinux
 
 64) git clone https://github.com/sdrausty/termux-archlinux.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Santet-Online
 
 65) git clone https://github.com/Gameye98/santet-online
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install GadoGado
 
 66) git clone https://github.com/Senitopeng/GadoGado.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #install CnkSpam
 
 67) git clone https://github.com/hatakecnk/cnkspam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AutoReportFB
 
 68) git clone https://github.com/gshofficialgithubindonesia/autoreport-fb
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Google-Dork
 
 69) git clone https://github.com/XG77Z10/Google-Dork
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install FHX-Hash-Killer
 
 70) git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hash-Buster
 
 71) git clone https://github.com/UltimateHackers/Hash-Buster
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
@@ -1296,84 +1296,84 @@ echo -e "${y} ./msfconsole"
 #Install Sritker
 
 73) git clone https://github.com/UltimateHackers/Striker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AutoScriptKiddieTool
 
 74) git clone https://github.com/b3-v3r/ASKT-AutoScriptKiddiesTool-.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Weeman
 
 75) git clone https://github.com/evait-security/weeman.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install SCANNER-INURLBR
 
 76) git clone https://github.com/googleinurl/SCANNER-INURLBR.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ScriptDefaceCreator
 
 77) git clone https://github.com/Ubaii/script-deface-creator
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install KtpKkGenerate
 
 78) git clone https://github.com/zerosvn/ktpkkgenerate
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ReconDog
 
 89) git clone https://github.com/UltimateHackers/ReconDog
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install HakkuFramework
 
 80) git clone https://github.com/4shadoww/hakkuframework
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install HunnerFramework
 
 81) git clone https://github.com/b3-v3r/Hunner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hammer
 
 82) git clone https://github.com/cyweb/hammer
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Torshammer
 
 83) git clone https://github.com/dotfighter/torshammer.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Katoolin
 
 84) git clone https://github.com/LionSec/katoolin.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
@@ -1390,140 +1390,140 @@ mpsyt
 #Install A-Rat
 
 86) git clone https://github.com/Xi4u7/A-Rat.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Cupp
 
 87) git clone https://github.com/Mebus/cupp.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Webpwn3r
 
 88) git clone https://github.com/zigoo0/webpwn3r
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install IPGeolocation
 
 89) git clone https://github.com/maldevel/IPGeolocation
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install XL
 
 90) git clone https://github.com/joss24242/xl-py 90
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BotFbBangDjon
 
 91) git clone https://github.com/Senitopeng/BotFbBangDjon.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install 4wsectools
 
 92) git clone https://github.com/aryanrtm/4wsectools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Admin_Penal
 
 93) git clone https://github.com/Techzindia/admin_penal
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install RouterSploit
 
 94) https://github.com/reverse-shell/routersploit.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install RusSpam
 
 95) git clone https://github.com/Rusmana-ID/rus
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Jexboss
 
 96) git clone https://github.com/joaomatosf/jexboss.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WifiPhisher
 
 97) git clone https://github.com/wifiphisher/wifiphisher.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WebSploit
 
 98) git clone https://github.com/The404Hacking/websploit.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Wifi-Hacker
 
 99) git clone https://github.com/esc0rtd3w/wifi-hacker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Mr.Rv1
 
 100) git clone https://github.com/Mr-R225/Mr.Rv1
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Mr.Rv2
 
 101) git clone https://github.com/Mr-R225/Mr.Rv2
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Stegosploit
 
 102) git clone https://github.com/csh/stegosploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Blazy
 
 103) git clone https://github.com/s0md3v/Blazy.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Anonymous
 
 104) git clone https://github.com/SitiMaimunah/anonymous.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bingoo
 
 105) git clone https://github.com/Hood3dRob1n/BinGoo.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
@@ -1552,133 +1552,133 @@ Tool-X
 #Install kickthemout
 
 107) git clone https://github.com/k4m4/kickthemout
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install T.DYF[300Tools]
 
 108) git clone https://github.com/droidxerror123/T.DYF
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install HPAS1369
 
 109) git clone https://github.com/DedSecCyber/HPAS1369
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PemulungBTC
 
 110) git clone https://github.com/Cvar1984/pemulungBTC
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install TouchUrl
 
 111) git clone https://github.com/SkyKnight-Team/TouchUrl
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install IP-TRACK
 
 112) git clone https://github.com/SkyKnighTeam/IP-TRACK
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Kuyang-Tool
 
 113) git clone https://github.com/kereh/Kuyang-Tool
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install SpazSMS
 
 114) git clone https://github.com/Gameye98/SpazSMS
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} SUDAH GIÀ INSTALLATO!"
 
 ;;
 
 #Install SiteBroker
 
 115) git clone https://github.com/Anon-Exploiter/SiteBroker
-echo -e "${y} SUDAH TERINSTALL.. "
+echo -e "${y} GIÀ INSTALLATO! "
 
 ;;
 
 #Install Email-Bomber
 
 116) git clone https://github.com/zanyarjamal/Email-bomber
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Ip-Gathering
 
 117) git clone https://github.com/kereh/Ip-gathering
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Scorpion
 
 118) git clone https://github.com/DedSecCyber/scorpion
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 # Install New-Spammer
 
 119) git clone https://github.com/haijuga7/New-Spammer
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Spam
 
 120) git clone https://github.com/SIIL3NT/spam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install QJDID
 
 121) git clone https://github.com/QiubyZ/QJDID
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install QFloodSms
 
 122) git clone https://github.com/QiubyZ/QFloodSms
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Login-Termux
 
 123) git clone https://github.com/Harisgitama/login-termux
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Linux
 
 124) git clone https://github.com/torvalds/linux
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Komodo
 
 125) git clone https://github.com/Gameye98/Komodo
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
@@ -1692,518 +1692,518 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Deface-Create
 
 127) git clone https://github.com/kereh/Deface-create
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Good_Terminal
 
 128) git clone https://github.com/kereh/Good_Termina
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Saddam
 
 129) git clone https://github.com/OffensivePython/Saddam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Sqlitebrowser
 
 130) git clone https://github.com/sqlitebrowser/sqlitebrowser
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PoC-Exploit
 
 131) git clone https://github.com/re4lity/PoC-Exploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install VTools
 
 132) git clone https://github.com/rootM3eX/VTools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Loginv2fx
 
 133) git clone https://github.com/Harisgitama/termux-loginv2fx
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Anti-DDOS
 
 134) git clone https://github.com/ismailtasdelen/Anti-DDOS
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Nscan
 
 135) git clone https://github.com/OffensivePython/Nscan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hostcheker
 
 136) git clone https://github.com/pirmansx/hostcheker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WebKit
 
 137) git clone https://github.com/ciku370/WebKit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AOCDEFACE
 
 138) git clone https://github.com/Amriez/AOCDEFACE
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Face-Hack
 
 139) git clone https://github.com/soracyberteam/face-hack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bash-Ransomeware
 
 140) git clone https://github.com/soracyberteam/bash-ransomware
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Cli-Browser
 
 141) git clone https://github.com/soracyberteam/cli-browser
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Spam-Mantan
 
 142) git clone https://github.com/not404foundcyberteam/spam-mantan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ngrok-stable-linux-arm
 
 143) wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hulk
 
 144) git clone https://github.com/grafov/hulk
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Lazysqlmap
 
 145) git clone https://github.com/verluchie/termux-lazysqlmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ShellNoob
 
 146) git clone https://github.com/reyammer/shellnoob
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ATSCAN
 
 147) git clone https://github.com/AlisamTechnology/ATSCAN
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Commix
 
 148) git clone https://github.com/commixproject/commix
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Wpscan
 
 149) git clone https://github.com/wpscanteam/wpscan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Wpbf
 
 150) git clone https://github.com/atarantini/wpbf
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install GreenReaper
 
 151) git clone https://github.com/Amriez/GreenReaper
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Devploit
 
 152) git clone https://github.com/joker25000/Devploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Ipmux
 
 153) git clone https://github.com/Amriez/ipmux
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Genscript
 
 154) git clone https://github.com/x-xsystm/genscript
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Instal Airgeddon
 
 155) git clone https://github.com/v1s1t0r1sh3r3/airgeddon
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AVARspam
 
 156) git clone https://github.com/ALX-04/AVARspam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ANRspam
 
 157) git clone https://github.com/Amriez/ANRspam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termuz-Ohmyzsh
 
 158) git clone https://github.com/cabbagec/termux-ohmyzsh
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CredSniper
 
 159) git clone https://github.com/ustayready/CredSniper
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Fluxion
 
 160) git clone https://github.com/thehackingsage/Fluxion
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Pixiewps
 
 161) git clone https://github.com/wiire/pixiewps
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Wifite
 
 162) git clone https://github.com/derv82/wifite
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Zones
 
 163) git clone https://github.com/Cvar1984/zones
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Sqlokmed
 
 164) git clone https://github.com/Anb3rSecID/sqlokmed
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Sir
 
 165) git clone https://github.com/AeonDave/sir
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Easymap
 
 166) git clone https://github.com/Cvar1984/Easymap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Sqliv
 
 167) git clone https://github.com/Hadesy2k/sqliv
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AndroidPINCrack
 
 168) git clone https://github.com/PentesterES/AndroidPINCrack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install NetKiller
 
 169) git clone https://github.com/sysadmimteam/NetKiller
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install IPScan
 
 170) git clone https://github.com/sysadminteam/IPscan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install XPL-SEARCH
 
 171) git clone https://github.com/r00mars/XPL-SEARCH
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bolang
 
 172) git clone https://github.com/Amriez/Bolang
-echo -e "${y} SUDAH TERINSTAL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Go
 
 173) git clone https://github.com/rafalgolarz/termux-go
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Toolss
 
 174) git clone https://github.com/AnonHackerr/toolss
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AngryFuzzer
 
 175) git clone https://github.com/ihebski/angryFuzzer.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install HackTronian
 
 176) git clone https://github.com/thegackingsage/hacktronian
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install EvilURL
 
 177) git clone https://github.com/UndeadSec/EvilURL
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CredMap
 
 178) git clone https://github.com/lightos/credmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Pybelt
 
 179) git clone https://github.com/ekultek/pybelt
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PyBozoCrack
 
 180) git clone https://github.com/ikkebr/PyBozoCrack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hashzer
 
 181) git clone https://github.com/Anb3rSecID/Hashzer
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Poet
 
 182) git clone https://github.com/mossberg/poet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install MamangKey
 
 183) git clone https://github.com/Amriez/MamangKey
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Sudo
 
 184) git clone https://github.com/st42/termux-sudo
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Nikto
 
 185) git clone https://github.com/sullo/nikto
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install TuyulBtn
 
 186) git clone https://github.com/Senitopeng/TuyulBtn
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Fsociety
 
 187) git clone https://github.com/Manisso/fsociety
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install 1337Hash
 
 188) git clone https://github.com/Gameye98/1337Hash
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CyberScan
 
 189) git clone https://github.com/medbenali/CybersScan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bitcoin-Wallet
 
 190) git clone https://github.com/bitcoin/bitcoin-wallet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CamStream-V3
 
 191) git clone https://github.com/avramit/CamStream-V3
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install XEIT_Cyber
 
 192) git clone https://github.com/DaffaTakarai/XEIT_Cyber
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Csrfpocmaker
 
 193) git clone https://github.com/shawrkhanethicalhacker/csrfpocmaker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PHP-BackConnector
 
 194) git clone https://github.com/shawrkhanethicalhacker/PHP-BackConnector
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install StabilizerBot
 
 195) git clone https://github.com/4shadoww/stabilizerbot
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Facebook-Video-Downloader
 
 196) git clone https://github.com/Tuhinshubhra/Facebook-Video-Downloader
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install RemBot
 
 197) git clone https://github.com/4shadoww/RemBot
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Entropy
 
 198) git clone https://github.com/UltimateHackers/Entropy
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Decodify
 
 199) git clone https://github.com/UltimateHackers/Decodify
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hue
 
 200) git clone https://github.com/UltimateHackers/hue
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
@@ -2211,776 +2211,784 @@ echo -e "${y} SUDAH TERINSTALL.."
 #Install Server_Domains
 
 201) git clone https://github.com/cyweb/server_domains
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Tool-Kit
 
 202) git clone https://github.com/Rajkumrdusad/Tool-Kit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Myenc
 
 203) git clone https://github.com/pirmansx/myenc
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BlackTrack
 
 204) git clone https://github.com/kereh/BlackTrack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Dec-Enc-Hash
 
 205) git clone https://github.com/haijuga7/Dec-Enc-Hash
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BlackMail
 
 206) git clone https://github.com/kereh/BlackMail
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ClickNRoot
 
 207) git clone https://github.com/evait-security/ClickNRoot
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Wifresti
 
 208) git clone https://github.com/LionSec/wifresti
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Port-Lookup
 
 209) git clone https://github.com/the-c0d3r/port-lookup
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install IP-Locator
 
 210) git clone https://github.com/zanyarjamal/IP-Locator
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Pynmap
 
 211) git clone https://github.com/the-c0d3r/pynmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Zambie
 
 212) git clone https://github.com/zanyarjamal/zambie
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install DataSploit
 
 213) git clone https://github.com/zanyarjamal/DataSploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Dracnmap
 
 214) git clone https://github.com/Screetsec/Dracnmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BlackNmap
 
 215) git clone https://github.com/Xi4u7/BlackNmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Vbscan
 
 216) git clone https://github.com/rezasp/vbscan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Gdog
 
 217) git clone https://github.com/maldevel/gdog
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bot-Exploiter
 
 218) git clone https://github.com/verluchie/bot-exploiter
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Instabot.py
 
 219) git clone https://github.com/verluchie/instabot.py
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WP-Hunter
 
 220) git clone https://github.com/aryanrtm/WP-Hunter
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install meTAInstall
 
 221) git clone https://github.com/4L13199/meTAInstall
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Remote-Shell
 
 222) git clone https://github.com/aryanrtm/Remote-Shell
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WPSeku
 
 223) git clone https://github.com/m4ll0k/WPSeku
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BForce
 
 224) git clone https://github.com/YukersCreew/BForce
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install SMBrute
 
 225) git clone https://github.com/m4ll0k/SMBrute
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Cok-Rat
 
 226) git clone https://github.com/mrcakil/cok-Rat
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Killr
 
 227) git clone https://github.com/whackhashoe/killr
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install 0WASP-Nettacker
 
 228) git clone https://github.com/zdresearch/0WASP-Nettacker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Dirsearch
 
 229) git clone https://github.com/maurosoria/dirsearch
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Ezsploit
 
 230) git clone https://github.com/rand0m1ze/ezsploit
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Fucking-Rat
 
 231) git clone https://github.com/kereh/Fucking-Rat
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Joomscan
 
 232) git clone https://github.com/rezasp/joomscan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Brute-Force-Gmail
 
 233) git clone https://github.com/JamesAndresCM/Brute_force_gmail
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CMSMap
 
 234) git clone https://github.com/Dionach/CMSmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install TheFatRat
 
 235) git clone https://github.com/Screetsec/TheFatRat
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Lhst
 
 236) git clone https://github.com/ciku370/lhst
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Ko-Dork
 
 237) git clone https://github.com/ciku370/ko-dork
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Breacher
 
 238) git clone https://github.com/UltimateHackers/Breacher
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PhishingGame
 
 239) git clone https://github.com/senitopeng/PhisingGame
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hasher
 
 240) git clone https://github.com/Ciku370/hasher
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Ipddos
 
 241) git clone https://github.com/Ciku370/ipddos
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AuxScan2.0
 
 242) git clone https://github.com/Gameye98/Auxscan2.0
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AstraNMap
 
 243) git clone https://github.com/Gameye98/AstraNmap
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install OWScan
 
 244) git clone https://github.com/Gameye98/OWScan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AutoReaction
 
 245) git clone https://github.com/Autoreaction
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install MultiSpam
 
 246) git clone https://github.com/kereh/MultiSpam
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WAScan
 
 247) git clone https://github.com/m4II0k/WAScan
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} SGIÀ INSTALLATO!"
 
 ;;
 
 #Install 3ERZV3nL
 
 248) wget -0 tuyul.php https://pastebin.com/raw/3ERZV3nL
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Errorcybertool
 
 249) git clone https://github.com/MrKeepSmile/errorcybertool
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Lazysqlmap
 
 250) git clone https://github.com/verluchie/termux-lazysqlmap
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-A
 
 251) git clone https://github.com/Cvar1984/Termux-A.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Admin_Panel_Finder
 
 252) git clone https://github.com/coding-shadow/admin_panel_finder
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Facebook-Cracker
 
 253) git clone https://github.com/coding-shadow/facebook_cracker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Jwt-Cracker
 
 254) git clone https://github.com/Imammino/jwt-cracker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Md-Password-Cracker
 
 255) git clone https://github.com/md5-password-cracker.js
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Flux
 
 256) git clone https://github.com/samyoyo/flux
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install WatWeb
 
 257) git clone https://github.com/urbanadventurer/WatWeb
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Tweetbox-Max
 
 258) git clone https://github.com/mtmxlog/tweetbot-max
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install SpamChat
 
 259) git clone https://github.com/Senitopeng/Spamchat
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install VulnScanner
 
 260) git clone git clone https://github.com/kereh/VulnScaner
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install IGP
 
 261) git clone https://github.com/kereh/IGP
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Termux-Os
 
 262) git clone https://github.com/Bhai4You/Termux-Os
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PemulungBTC
 
 263) git clone https://github.com/Cvar1984/pemulungBTC.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install xNot-Found
 
 264) git clone https://github.com/hatakecnk/xNot_Found
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install T.DEF-09
 
 265) git clone https://github.com/droidxerror123/T.DEF-09
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BotTroxSelf
 
 266) git clone https://github.com/Satria3/BotTroxSelf
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Stagefright
 
 267) git clone https://github.com/m4rm0k/Stagefright
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Spaghetti
 
 268) git clone https://github.com/m4ll0k/Spaghetti.git
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Pencari-Login-Admin
 
 269) git clone https://github.com/DaffaTakarai/Pencari-Login-Admin
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Tools-GalaulersV.3
 
 270) git clone https://github.com/DaffaTakarai/Tools-GalaulersV.3
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install LITETOOLS
 
 271) git clone https://github.com/4L13199/LITETOOLS
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Tools
 
 272) git clone https://github.com/nullsecuritynet/tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hack-Tools
 
 273) git clone https://github.com/hacktoolspack/hack-tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Awesome-Docker
 
 274) git clone https://github.com/veggiemonk/awesome-docker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Imgui
 
 275) git clone https://github.com/ocornut/imgui
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install RxTool
 
 276) git clone https://github.com/vondear/RxTool
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Windows-Hacks
 
 277) git clone https://github.com/LazoCoder/Windows-Hacks
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Elixir-Tips
 
 278) git clone https://github.com/blackode/elixir-tips
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Chrome-Password-Hacking
 
 279) git clone https://github.com/darkarp/chrome-password-hacking
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Bioinformatics-Hacks
 
 280) git clone https://github.com/audy/bioinformatics-hacks
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install RaspberryPi-Packet-Sniffer
 
 281) git clone https://github.com/adityashrm21/RaspberryPi-Packet-Sniffer
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Code-Breaker
 
 282) git clone https://github.com/Defacto2/Code-Breaker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install AndSploit
 
 283) git clone https://github.com/sundaysec/Andspoilt
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Multilang-Fork-Bombs
 
 284) git clone https://github.com/EchoNine/Multilang-fork-bombs
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Typeracer-Hack
 
 285) git clone https://github.com/aashutoshrathi/Typeracer-Hack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CoD4_Hacks
 
 286) git clone https://github.com/attilathedud/CoD4_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install TTR-Tools
 
 287) git clone https://github.com/AskAlice/TTR-Tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install BW_Hacks
 
 288) git clone https://github.com/attilathedud/BW_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CoD_Hacks
 
 289) git clone https://github.com/attilathedud/CoD_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install CIA-Hacking-Tools
 
 290) git clone https://github.com/troydo42/CIA-Hacking-Tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hack-Tool
 
 291) git clone https://github.com/chrismeyersfsu/hack-tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hacking-Tools-Repository
 
 292) git clone https://github.com/Gexos/Hacking-Tools-Repository
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hacking-Tools
 
 293) git clone https://github.com/ExploreCrew/Hacking-Tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install fbht
 
 294) git clone https://github.com/chinoogawa/fbht
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install DebianTools
 
 295) git clone https://github.com/thelinuxchoice/debiantools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Awesome-Hacking
 
 296) git clone https://github.com/jekil/awesome-hacking
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Car-Hacking-Tools
 
 297) git clone https://github.com/ParrotSec/car-hacking-tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Hacking-Tools
 
 298) git clone https://github.com/girishramnani/hacking-tools
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Facebook-Messanger-Bot-Webhook
 
 299) git clone https://github.com/troydo42/facebook-messenger-bot-webhook
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ZBOT-BotNet
 
 300) git clone https://github.com/codingplanets/ZBOT-Botnet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Overload-DoS
 
 301) git clone https://github.com/codingplanets/Overload-DoS
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install PooleBotNet
 
 302) git clone https://github.com/codingplanets/PooleBotnet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Pyrhon-BotNet
 
 303) git clone https://github.com/alexpell00/python-botnet
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install FB-Phishing
 
 304) git clone https://github.com/SheehabX/FB-Phishing
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install King-Phisher
 
 305) git clone https://github.com/securestate/king-phisher
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Extra-Phishing-Pages
 
 306) git clone https://github.com/wifiphisher/extra-phishing-pages
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Artemis
 
 307) git clone https://github.com/sweetsoftware/Artemis
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ss7MAPer
 
 308) git clone https://github.com/ernw/ss7MAPer
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install ss5
 
 309) git clone https://github.com/postageapp/ss5
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install Gemail-Hack
 
 310) git clone https://github.com/Ha3MrX/Gemail-Hack
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
 #Install cc-cheker
 
 311) git clone https://github.com/br0keh/cc-checker
-echo -e "${y} SUDAH TERINSTALL.."
+echo -e "${y} GIÀ INSTALLATO!"
+
+;;
+
+#Install anonsec
+
+312) git clone https://github.com/anovni/anonsec
+echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
 
