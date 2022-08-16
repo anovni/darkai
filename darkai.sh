@@ -29,14 +29,14 @@ red='\e[1;31m'
 figlet DARKAI  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TIPO      : Installazione Hacking Tools $green " |lolcat
-echo -b "VERSIONE  : v.1 IT " | lolcat
-echo -b "TOTALE    : 312 TOOLS " | lolcat
-echo -b "AUTORE    : @anovni1 $green " |lolcat
-echo -b "AUTORE    : TuanB4Dut $green " |lolcat
-echo -b "WEB       : OpAnonIta https://opanonita.wordpress.com  $green " |lolcat
-echo -b "InfoSec   : NEL CODICE NOI CREDIAMO $green " |lolcat
-echo -b "NOTA      : Anonymous Italia " | lolcat
+echo -b "TIPO     : Installazione Hacking Tools $green " |lolcat
+echo -b "VERSIONE : v.1 IT " | lolcat
+echo -b "TOTALE   : 312 TOOLS " | lolcat
+echo -b "AUTORE   : @anovni1 $green " |lolcat
+echo -b "AUTORE   : TuanB4Dut $green " |lolcat
+echo -b "WEB      : OpAnonIta https://opanonita.wordpress.com  $green " |lolcat
+echo -b "InfoSec  : NEL CODICE NOI CREDIAMO $green " |lolcat
+echo -b "NOTA     : Anonymous Italia " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
@@ -3002,7 +3002,7 @@ figlet DARKAI | lolcat
 exit
 ;;
 
-*) echo "Siamo spiacenti, le tue scelte non sono pronte. [T4T]"
+*) echo "Sorry, Your choices it's not already [T4T]"
 esac
 done
 done
