@@ -1,4 +1,4 @@
-# ➢ darkai 100% IN ITALIANO‼️
+# ➢ darkai 100% IN ITALIANO
 
 ![main menu](https://user-images.githubusercontent.com/78624983/184999414-f76fde41-6e70-4dc0-a0c4-0f945d3c8b0a.jpg)
 
@@ -23,4 +23,4 @@
 4) ➢ Digita il numero del tool che vorresti installare.
 5) ➢ Buon divertimento!
 
-# ‼️ NOI SIAMO ANONYMOUS
+#  NOI SIAMO ANONYMOUS
