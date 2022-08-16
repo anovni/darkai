@@ -34,7 +34,7 @@ echo -b "VERSIONE : v.1 IT " | lolcat
 echo -b "TOTALE   : 312 TOOLS " | lolcat
 echo -b "AUTORE   : @anovni1 $green " |lolcat
 echo -b "AUTORE   : TuanB4Dut $green " |lolcat
-echo -b "WEB      : OpAnonIta https://opanonita.wordpress.com  $green " |lolcat
+echo -b "WEB      : OpAnonIta https://opanonita.wordpress.com $green " |lolcat
 echo -b "InfoSec  : NEL CODICE NOI CREDIAMO $green " |lolcat
 echo -b "NOTA     : Anonymous Italia " | lolcat
 echo -b "_____________________________________________________________" | lolcat
@@ -50,7 +50,7 @@ clear
 echo -b $green"[#]> I TOOL CHE INSTALLI SONO DISPONIBILI NELLA DIRECTORY DARKAI " |lolcat
 echo -b $green"[#]> Grazie per aver utilizzato il nostro strumento." |lolcat
 sleep 1
-echo -b $green"[#]> ANOVNI nel tuo sistema" |lolcat
+echo -b $green"[#]> darkai nel tuo sistema" |lolcat
 
 echo -b $green"[#]> Nel codice noi crediamo" |lolcat
 figlet darkai | lolcat
