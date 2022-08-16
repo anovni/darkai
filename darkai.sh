@@ -72,627 +72,627 @@ echo -e "######################################" | lolcat
 
 echo ""
 echo -e "========================================================" | lolcat
-echo -e $b "1 ➢ Installa Nmap${enda}";
+echo -e $b "1 Installa Nmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "2 ➢ Installa Admin-finder${endcla}";
+echo -e $b "2 Installa Admin-finder${endcla}";
 echo -e "========================================================" | lolcat
-echo -e $b "3 ➢ Installa RED_HAWK${enda}";
+echo -e $b "3 Installa RED_HAWK${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "4 ➢ Installa Lazymux${enda}";
+echo -e $b "4 Installa Lazymux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "5 ➢ Installa Tools-X${enda}";
+echo -e $b "5 Installa Tools-X${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "6 ➢ Installa Mrcakil${enda}";
+echo -e $b "6 Installa Mrcakil${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "7 ➢ Installa D-TECT${enda}";
+echo -e $b "7 Installa D-TECT${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "8 ➢ Installa Mr.Rv1.1${enda}";
+echo -e $b "8 Installa Mr.Rv1.1${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "9 ➢ Installa BAJINGANv6${enda}";
+echo -e $b "9 Installa BAJINGANv6${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "10 ➢ Installa MultiBruteForce(MBF)${enda}";
+echo -e $b "10 Installa MultiBruteForce(MBF)${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "11 ➢ Installa XERXES${enda}";
+echo -e $b "11 Installa XERXES${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "12 ➢ Installa LITESPAM${enda}";
+echo -e $b "12 Installa LITESPAM${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "13 ➢ Installa Android-Malware${enda}";
+echo -e $b "13 Installa Android-Malware${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "14 ➢ Installa SigPloit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "15 ➢ Installa Sn1per${enda}";
+echo -e $b "15 Installa Sn1per${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "16 ➢ Installa ICG-AutoExploiterBoT${enda}";
+echo -e $b "16 Installa ICG-AutoExploiterBoT${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "17 ➢ Installa QRLJacking${enda}";
+echo -e $b "17 Installa QRLJacking${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "18 ➢ Installa txtool${enda}";
+echo -e $b "18 Installa txtool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "19 ➢ Installa Bulltools${enda}";
+echo -e $b "19 Installa Bulltools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "20 ➢ Installa Termux-Banner${enda}";
+echo -e $b "20 Installa Termux-Banner${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "21 ➢ Installa udfhack${enda}";
+echo -e $b "21 Installa udfhack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "22 ➢ Installa Mirai-Source-Code${enda}";
+echo -e $b "22 Installa Mirai-Source-Code${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "23 ➢ Installa Hale${enda}";
+echo -e $b "23 Installa Hale${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "24 ➢ Installa Mirai-IoT-BotNet${enda}";
+echo -e $b "24 Installa Mirai-IoT-BotNet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "25 ➢ Installa Ufonet${enda}";
+echo -e $b "25 Installa Ufonet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "26 ➢ Installa bom${enda}";
+echo -e $b "26 Installa bom${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "27 ➢ Installa tool${enda}";
+echo -e $b "27 Installa tool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "28 ➢ Installa BotNet${enda}";
+echo -e $b "28 Installa BotNet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "29 ➢ Installa Malwares${enda}";
+echo -e $b "29 Installa Malwares${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "30 ➢ Installa zeus-bot${enda}";
+echo -e $b "30 Installa zeus-bot${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "31 ➢ Installa AutoSploit${enda}";
+echo -e $b "31 Installa AutoSploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "32 ➢ Installa IFC${enda}";
+echo -e $b "32 Installa IFC${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "33 ➢ Installa SQLMAP${enda}";
+echo -e $b "33 Installa SQLMAP${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "34 ➢ Installa Spyder${enda}";
+echo -e $b "34 Installa Spyder${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "35 ➢ Installa Social-Engineer-ToolKit${enda}";
+echo -e $b "35 Installa Social-Engineer-ToolKit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "36 ➢ Installa Kawai-Botnet${enda}";
+echo -e $b "36 Installa Kawai-Botnet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "37 ➢ Installa DarkSploit${enda}";
+echo -e $b "37 Installa DarkSploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "38 ➢ Installa SH33LL${enda}";
+echo -e $b "38 Installa SH33LL${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "39 ➢ Installa Evil-Create-Framework${enda}";
+echo -e $b "39 Installa Evil-Create-Framework${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "40 ➢ Installa Gabutz${enda}";
+echo -e $b "40 Installa Gabutz${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "41 ➢ Installa RootNet${enda}";
+echo -e $b "41 Installa RootNet${enda}";
 echo -e "========================================================"| lolcat
-echo -e $b "42 ➢ Installa BadMod${enda}";
+echo -e $b "42 Installa BadMod${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "43 ➢Installa BoomHash${enda}";
+echo -e $b "43 Installa BoomHash${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "44 ➢ Installa Plutus${enda}";
+echo -e $b "44 Installa Plutus${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "45 ➢ Installa ContexPloit${enda}";
+echo -e $b "45 Installa ContexPloit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "46 ➢ Installa Th3inspector${enda}";
+echo -e $b "46 Installa Th3inspector${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "47 ➢ Installa Findip${enda}";
+echo -e $b "47 Installa Findip${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "48 ➢ Installa V3nom-Scanner${enda}";
+echo -e $b "48 Installa V3nom-Scanner${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "49 ➢ Installa Bom Sms 3${enda}";
+echo -e $b "49 Installa Bom Sms 3${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "50 ➢ Installa WebKiller${enda}";
+echo -e $b "50 Installa WebKiller${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "51 ➢ Installa Bitcoin-Hacking-Tools${enda}";
+echo -e $b "51 Installa Bitcoin-Hacking-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "52 ➢ Installa Firefox-Plugin-Popup-Logout${enda}";
+echo -e $b "52 Installa Firefox-Plugin-Popup-Logout${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "53 ➢ Installa Bitcoin-All-Key-Generator${enda}";
+echo -e $b "53 Installa Bitcoin-All-Key-Generator${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "54 ➢ Installa My-First-Bitcoin-Miner${enda}";
+echo -e $b "54 Installa My-First-Bitcoin-Miner${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "55 ➢ Installa Parity-Config-Generator${enda}";
+echo -e $b "55 Installa Parity-Config-Generator${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "56 ➢ Installa Distributed-Bitcoin-Generator${enda}";
+echo -e $b "56 Installa Distributed-Bitcoin-Generator${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "57 ➢ Installa Mesos-Bitcoin-Miner${enda}";
+echo -e $b "57 Installa Mesos-Bitcoin-Miner${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "58 ➢ Installa Git_Psibot_Hacking${enda}";
+echo -e $b "58 Installa Git_Psibot_Hacking${enda}";
 echo -e =========================================================" | lolcat
-echo -e $b "59 ➢ Installa KatanaFramework${enda}";
+echo -e $b "59 Installa KatanaFramework${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "60 ➢ Installa STP${enda}";
+echo -e $b "60 Installa STP${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "61 ➢ Installa Termux-Ubuntu${enda}";
+echo -e $b "61 Installa Termux-Ubuntu${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "62 ➢ Installa Nethuner-In-Termux${enda}";
+echo -e $b "62 Installa Nethuner-In-Termux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "63 ➢ Installa viSQL${enda}";
+echo -e $b "63 Installa viSQL${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "64 ➢ Installa Termux-Archlinux${enda}";
+echo -e $b "64 Installa Termux-Archlinux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "65 ➢ Installa Santet-Online${enda}";
+echo -e $b "65 Installa Santet-Online${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "66 ➢ Installa GadoGado${enda}";
+echo -e $b "66 Installa GadoGado${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "67 ➢ Installa CnkSpam${enda}";
+echo -e $b "67 Installa CnkSpam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "68 ➢ Installa AutoReportFB${enda}";
+echo -e $b "68 Installa AutoReportFB${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "69 ➢ Installa Google-Dork${enda}";
+echo -e $b "69 Installa Google-Dork${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "70 ➢ Installa FHX-Hash-Killer${enda}";
+echo -e $b "70 Installa FHX-Hash-Killer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "71 ➢ Installa Hash-Buster${enda}";
+echo -e $b "71 Installa Hash-Buster${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "72 ➢ Installa Metasploit${enda}";
+echo -e $b "72 Installa Metasploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "73 ➢ Installa Striker${enda}";
+echo -e $b "73 Installa Striker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "74 ➢ Installa AutoScriptKiddieTool${enda}";
+echo -e $b "74 Installa AutoScriptKiddieTool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "75 ➢ Installa Weeman${enda}";
+echo -e $b "75 Installa Weeman${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "76 ➢ Installa SCANNER-INURLBR${enda}";
+echo -e $b "76 Installa SCANNER-INURLBR${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "77 ➢ Installa Script-Deface-Creator${enda}";
+echo -e $b "77 Installa Script-Deface-Creator${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "78 ➢ Installa ktpKkGenerate${enda}";
+echo -e $b "78 Installa ktpKkGenerate${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "79 ➢ Installa ReconDog${enda}";
+echo -e $b "79 Installa ReconDog${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "80 ➢ Installa HakkuFramework${enda}";
+echo -e $b "80 Installa HakkuFramework${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "81 ➢ Installa HunnerFramework${enda}";
+echo -e $b "81 Installa HunnerFramework${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "82 ➢ Installa Hammer${enda}";
+echo -e $b "82 Installa Hammer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "83 ➢ Installa Torshammer${enda}";
+echo -e $b "83 Installa Torshammer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "84 ➢ Installa Katoolin${enda}";
+echo -e $b "84 Installa Katoolin${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "85 ➢ Installa MPSYT${enda}";
+echo -e $b "85 Installa MPSYT${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "86 ➢ Installa A-Rat${enda}";
+echo -e $b "86 Installa A-Rat${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "87 ➢ Installa Cupp${enda}";
+echo -e $b "87 Installa Cupp${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "88 ➢ Installa Webpwn3r${enda}";
+echo -e $b "88 Installa Webpwn3r${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "89 ➢ Installa IPGeolocation${enda}";
+echo -e $b "89 Installa IPGeolocation${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "90 ➢ Installa XL${enda}";
+echo -e $b "90 Installa XL${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "91 ➢ Installa BotFbBangDjon${enda}";
+echo -e $b "91 Installa BotFbBangDjon${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "92 ➢ Installa 4wsectools${enda}";
+echo -e $b "92 Installa 4wsectools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "93 ➢ Installa Admin_Penal${enda}";
+echo -e $b "93 Installa Admin_Penal${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "94 ➢ Installa RouterSploit${enda}";
+echo -e $b "94 Installa RouterSploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "95 ➢ Installa RusSpam${enda}";
+echo -e $b "95 Installa RusSpam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "96 ➢ Installa Jexboss${enda}";
+echo -e $b "96 Installa Jexboss${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "97 ➢ Installa WifiPhisher${enda}";
+echo -e $b "97 Installa WifiPhisher${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "98 ➢ Installa WebSploit${enda}";
+echo -e $b "98 Installa WebSploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "99 ➢ Installa Wifi-Hacker${enda}";
+echo -e $b "99 Installa Wifi-Hacker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "100 ➢ Installa Mr.Rv1${enda}";
+echo -e $b "100 Installa Mr.Rv1${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "101 ➢ Installa Mr.Rv.2${enda}";
+echo -e $b "101 Installa Mr.Rv.2${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "102 ➢ Installa Stegosploit${enda}";
+echo -e $b "102 Installa Stegosploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "103 ➢ Installa Blazy${enda}";
+echo -e $b "103 Installa Blazy${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "104 ➢ Installa anonymous${enda}";
+echo -e $b "104 Installa anonymous${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "105 ➢ Installa Bingoo${enda}";
+echo -e $b "105 Installa Bingoo${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "106 ➢ Installa Tool-X${enda}";
+echo -e $b "106 Installa Tool-X${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "107 ➢ Installa kickthemout${enda}";
+echo -e $b "107 Installa kickthemout${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "108 ➢ Installa T.DYf[300Tools]${enda}";
+echo -e $b "108 Installa T.DYf[300Tools]${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "109 ➢ Installa HPAS-1369${enda}";
+echo -e $b "109 Installa HPAS-1369${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "110 ➢ Installa pemulungBTC${enda}";
+echo -e $b "110 Installa pemulungBTC${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "111 ➢ Installa TouchUrl${enda}";
+echo -e $b "111 Installa TouchUrl${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "112 ➢ Installa IP-TRACK${enda}";
+echo -e $b "112 Installa IP-TRACK${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "113 ➢ Installa Kuyang-Tool${enda}";
+echo -e $b "113 Installa Kuyang-Tool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "114 ➢ Installa SpazSMS${enda}";
+echo -e $b "114 Installa SpazSMS${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "115 ➢ Installa SiteBroker${enda}";
+echo -e $b "115 Installa SiteBroker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "116 ➢ Installa Email-Bomber${enda}";
+echo -e $b "116 Installa Email-Bomber${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "117 ➢ Installa Ip-Gathering${enda}";
+echo -e $b "117 Installa Ip-Gathering${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "118 ➢ Installa Scorpion${enda}";
+echo -e $b "118 Installa Scorpion${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "119 ➢ Installa New-Spammer${enda}";
+echo -e $b "119 Installa New-Spammer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "120 ➢ Installa Spam${enda}";
+echo -e $b "120 Installa Spam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "121 ➢ Installa QJDID${enda}";
+echo -e $b "121 Installa QJDID${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "122 ➢ Installa QFloodSms${enda}";
+echo -e $b "122 Installa QFloodSms${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "123 ➢ Installa Login-Termux${enda}";
+echo -e $b "123 Installa Login-Termux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "124 ➢ Installa Linux${enda}";
+echo -e $b "124 Installa Linux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "125 ➢ Installa Komodo${enda}";
+echo -e $b "125 Installa Komodo${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "126 ➢ Installa HN-Installer${enda}";
+echo -e $b "126 Installa HN-Installer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "127 ➢ Installa Deface-Create${enda}";
+echo -e $b "127 Installa Deface-Create${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "128 ➢ Installa Good_Terminal${enda}";
+echo -e $b "128 Installa Good_Terminal${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "129 ➢ Installa Saddam${enda}";
+echo -e $b "129 Installa Saddam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "130 ➢ Installa SqliteBrowser${enda}";
+echo -e $b "130 Installa SqliteBrowser${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "131 ➢ Installa PoC-Exploit${enda}";
+echo -e $b "131 Installa PoC-Exploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "132 ➢ Installa VTools${enda}";
+echo -e $b "132 Installa VTools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "133 ➢ Installa Termux-Loginv2fx${enda}";
+echo -e $b "133 Installa Termux-Loginv2fx${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "134 ➢ Installaa Anti-DDOS${enda}";
+echo -e $b "134 Installaa Anti-DDOS${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "135 ➢ Installa NScan${enda}";
+echo -e $b "135 Installa NScan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "136 ➢ Installa Hostcheker${enda}";
+echo -e $b "136 Installa Hostcheker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "137 ➢ Installa WebKit${enda}";
+echo -e $b "137 Installa WebKit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "138 ➢ Installa AOCDEFACE${enda}";
+echo -e $b "138 Installa AOCDEFACE${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "139 ➢ Installa Face-Hack${enda}";
+echo -e $b "139 Installa Face-Hack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "140 ➢ Installa Bash-Ransomware${enda}";
+echo -e $b "140 Installa Bash-Ransomware${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "141 ➢ Installa Cli-Browser${enda}";
+echo -e $b "141 Installa Cli-Browser${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "142 ➢ Installa Spam-Mantan${enda}";
+echo -e $b "142 Installa Spam-Mantan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "143 ➢ Installa ngrok-stable-linux-arm${enda}";
+echo -e $b "143 Installa ngrok-stable-linux-arm${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "144 ➢ Installa Hulk${enda}";
+echo -e $b "144 Installa Hulk${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "145 ➢ Installa Termux-Lazsqlmap${enda}";
+echo -e $b "145 Installa Termux-Lazsqlmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "146 ➢ Installa Shellnoob${enda}";
+echo -e $b "146 Installa Shellnoob${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "147 ➢ Installa ATSCAN${enda}";
+echo -e $b "147 Installa ATSCAN${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "148 ➢ Installa Commix${enda}";
+echo -e $b "148 Installa Commix${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "149 ➢ Installa Wpscan${enda}";
+echo -e $b "149 Installa Wpscan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "150 ➢ Installa wpbf${enda}";
+echo -e $b "150 Installa wpbf${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "151 ➢ Installa GreenReaper${enda}";
+echo -e $b "151 Installa GreenReaper${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "152 ➢ Installa Devploit${enda}";
+echo -e $b "152 Installa Devploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "153 ➢ Installa Ipmux${enda}";
+echo -e $b "153 Installa Ipmux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "154 ➢ Installa Genscript${enda}";
+echo -e $b "154 Installa Genscript${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "155 ➢ Installa Airgeddon${enda}";
+echo -e $b "155 Installa Airgeddon${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "156 ➢ Installa AVARSpam${enda}";
+echo -e $b "156 Installa AVARSpam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "157 ➢ Installa ANRSpam${enda}";
+echo -e $b "157 Installa ANRSpam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "158 ➢ Installa Termux-ohmyzsh${enda}";
+echo -e $b "158 Installa Termux-ohmyzsh${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "159 ➢ Installa CredSniper${enda}";
+echo -e $b "159 Installa CredSniper${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "160 ➢ Installa Fluxion${enda}";
+echo -e $b "160 Installa Fluxion${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "161 ➢ Installa pixiewps${enda}";
+echo -e $b "161 Installa pixiewps${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "162 ➢ Installa wifite${enda}";
+echo -e $b "162 Installa wifite${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "163 ➢ Installa Zones${enda}";
+echo -e $b "163 Installa Zones${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "164 ➢ Installa sqlokmed${enda}";
+echo -e $b "164 Installa sqlokmed${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "165 ➢ Installa Sir${enda}";
+echo -e $b "165 Installa Sir${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "166 ➢ Installa Easymap${enda}";
+echo -e $b "166 Installa Easymap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "167 ➢ Installa Sqliv${enda}";
+echo -e $b "167 Installa Sqliv${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "168 ➢ Installa AndroidPinCrack${enda}";
+echo -e $b "168 Installa AndroidPinCrack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "169 ➢ Installa NetKiller${enda}";
+echo -e $b "169 Installa NetKiller${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "170 ➢ Installa IPscan${enda}";
+echo -e $b "170 Installa IPscan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "171 ➢ Installa XPL-SEARCH${enda}";
+echo -e $b "171 Installa XPL-SEARCH${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "172 ➢ Installa Bolang${enda}";
+echo -e $b "172 Installa Bolang${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "173 ➢ Installa Termux-Go${enda}";
+echo -e $b "173 Installa Termux-Go${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "174 ➢ Installa Toolss${enda}";
+echo -e $b "174 Installa Toolss${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "175 ➢ Installa AngryFuzzer${enda}";
+echo -e $b "175 Installa AngryFuzzer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "176 ➢ Installa Hacktronian${enda}";
+echo -e $b "176 Installa Hacktronian${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "177 ➢ Installa EvilURL${enda}";
+echo -e $b "177 Installa EvilURL${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "178 ➢ Installa CredMap${enda}";
+echo -e $b "178 Installa CredMap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "179 ➢ Installa Pybelt${enda}";
+echo -e $b "179 Installa Pybelt${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "180 ➢ Installa PyBozoCrack${enda}";
+echo -e $b "180 Installa PyBozoCrack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "181 ➢ Installa Hashzer${enda}";
+echo -e $b "181 Installa Hashzer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "182 ➢ Installa Poet${enda}";
+echo -e $b "182 Installa Poet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "183 ➢ Installa MamangKey${enda}";
+echo -e $b "183 Installa MamangKey${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "184 ➢ Installa Termux-Sudo${enda}";
+echo -e $b "184 Installa Termux-Sudo${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "185 ➢ Installa Nikto${enda}";
+echo -e $b "185 Installa Nikto${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "186 ➢ Installa Tuyulbtn${enda}";
+echo -e $b "186 Installa Tuyulbtn${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "187 ➢ Installa Fsociety${enda}";
+echo -e $b "187 Installa Fsociety${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "188 ➢ Installa 1337Hash${enda}";
+echo -e $b "188 Installa 1337Hash${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "189 ➢ Installa CyberScan${enda}";
+echo -e $b "189 Installa CyberScan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "190 ➢ Installa Bitcoin-Wallet${enda}";
+echo -e $b "190 Installa Bitcoin-Wallet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "191 ➢ Installa CamStream-V3${enda}";
+echo -e $b "191 Installa CamStream-V3${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "192 ➢ Installa XEIT_CYBER${enda}";
+echo -e $b "192 Installa XEIT_CYBER${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "193 ➢ Installa CsrfPocMaker${enda}";
+echo -e $b "193 Installa CsrfPocMaker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "194 ➢ Installa PHP-BackConnector${enda}";
+echo -e $b "194 Installa PHP-BackConnector${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "195 ➢ Installa StabilizerBot${enda}";
+echo -e $b "195 Installa StabilizerBot${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "196 ➢ Installa Facebook-Video-Downloader${enda}";
+echo -e $b "196 Installa Facebook-Video-Downloader${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "197 ➢ Installa Rembot${enda}";
+echo -e $b "197 Installa Rembot${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "198 ➢ Installa Entropy${enda}";
+echo -e $b "198 Installa Entropy${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "199 ➢ Installa Decodify${enda}";
+echo -e $b "199 Installa Decodify${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "200 ➢ Installa Hue${enda}";
+echo -e $b "200 Installa Hue${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "201 ➢ Installa Server_Domains${enda}";
+echo -e $b "201 Installa Server_Domains${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "202 ➢ Installa Tool-Kit${enda}";
+echo -e $b "202 Installa Tool-Kit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "203 ➢ Installa Myenc${enda}";
+echo -e $b "203 Installa Myenc${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "204 ➢ Installa BlackTrack${enda}";
+echo -e $b "204 Installa BlackTrack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "205 ➢ Installa Dec-Enc-Hash${enda}";
+echo -e $b "205 Installa Dec-Enc-Hash${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "206 ➢ Installa BlackMail${enda}";
+echo -e $b "206 Installa BlackMail${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "207 ➢ Installa ClickNRoot${enda}";
+echo -e $b "207 Installa ClickNRoot${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "208 ➢ Installa Wifresti${enda}";
+echo -e $b "208 Installa Wifresti${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "209 ➢ Installa Port-Lookup${enda}";
+echo -e $b "209 Installa Port-Lookup${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "210 ➢ Installa IP-Locator${enda}";
+echo -e $b "210 Installa IP-Locator${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "211 ➢ Installa Pynmap${enda}";
+echo -e $b "211 Installa Pynmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "212 ➢ Installa Zambie${enda}";
+echo -e $b "212 Installa Zambie${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "213 ➢ Installa DataSploit${enda}";
+echo -e $b "213 Installa DataSploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "214 ➢ Installa Dracnmap${enda}";
+echo -e $b "214 Installa Dracnmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "215 ➢ Installa BlackNmap${enda}";
+echo -e $b "215 Installa BlackNmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "216 ➢ Isntalla Vbscan${enda}";
+echo -e $b "216 Isntalla Vbscan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "217 ➢ Installa Gdog${enda}";
+echo -e $b "217 Installa Gdog${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "218 ➢ Installa Bot-Exploiter${enda}";
+echo -e $b "218 Installa Bot-Exploiter${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "219 ➢ Installa Instabot.py${enda}";
+echo -e $b "219 Installa Instabot.py${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "220 ➢ Installa WP-Hunter${enda}";
+echo -e $b "220 Installa WP-Hunter${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "221 ➢ Installa meTAInstall${enda}";
+echo -e $b "221 Installa meTAInstall${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "222 ➢ Installa Remote-Shell${enda}";
+echo -e $b "222 Installa Remote-Shell${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "223 ➢ Installa WPSeku${enda}";
+echo -e $b "223 Installa WPSeku${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "224 ➢ Installa BForce${enda}";
+echo -e $b "224 Installa BForce${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "225 ➢ Installa SMBrute${enda}";
+echo -e $b "225 Installa SMBrute${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "226 ➢ Installa Cok-Rat${enda}";
+echo -e $b "226 Installa Cok-Rat${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "227 ➢ Installa Killr${enda}";
+echo -e $b "227 Installa Killr${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "228 ➢ Installa 0WASP-Nettacker${enda}";
+echo -e $b "228 Installa 0WASP-Nettacker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "229 ➢ Installa Dirsearch${enda}";
+echo -e $b "229 Installa Dirsearch${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "230 ➢ Installa Ezsploit${enda}";
+echo -e $b "230 Installa Ezsploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "231 ➢ Installa Fucking-Rat${enda}";
+echo -e $b "231 Installa Fucking-Rat${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "232 ➢ Installa Joomscan${enda}";
+echo -e $b "232 Installa Joomscan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "233 ➢ Installa Brute-Force-Gmail${enda}";
+echo -e $b "233 Installa Brute-Force-Gmail${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "234 ➢ Installa CMSmap${enda}";
+echo -e $b "234 Installa CMSmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "235 ➢ Installa TheFatRat${enda}";
+echo -e $b "235 Installa TheFatRat${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "236 ➢ Installa Lhst${enda}";
+echo -e $b "236 Installa Lhst${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "237 ➢ Installa Ko-Dork${enda}";
+echo -e $b "237 Installa Ko-Dork${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "238 ➢ Installa Breacher${enda}";
+echo -e $b "238 Installa Breacher${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "239 ➢ Installa PhishingGame${enda}";
+echo -e $b "239 Installa PhishingGame${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "240 ➢ Installa Hasher${enda}";
+echo -e $b "240 Installa Hasher${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "241 ➢ Installa Ipddos${enda}";
+echo -e $b "241 Installa Ipddos${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "242 ➢ Installa Auxscan2.0${enda}";
+echo -e $b "242 Installa Auxscan2.0${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "243 ➢ Installa AstraNmap${enda}";
+echo -e $b "243 Installa AstraNmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "244 ➢ Installa OWScan${enda}";
+echo -e $b "244 Installa OWScan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "245 ➢ Installa AutoReaction${enda}";
+echo -e $b "245 Installa AutoReaction${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "246 ➢ Installa MultiSpam${enda}";
+echo -e $b "246 Installa MultiSpam${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "247 ➢ Installa WAScan${enda}";
+echo -e $b "247 Installa WAScan${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "248 ➢ Installa 3ERZV3nL${enda}";
+echo -e $b "248 Installa 3ERZV3nL${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "249 ➢ Installa ErrorCyberTool${enda}";
+echo -e $b "249 Installa ErrorCyberTool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "250 ➢ Installa Termux-Lazysqlmap${enda}";
+echo -e $b "250 Installa Termux-Lazysqlmap${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "251 ➢ Installa Termux-A${enda}";
+echo -e $b "251 Installa Termux-A${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "252 ➢ Installa Admin_Panel_Finder${enda}";
+echo -e $b "252 Installa Admin_Panel_Finder${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "253 ➢ Installa Facebook_Cracker${enda}";
+echo -e $b "253 Installa Facebook_Cracker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "254 ➢ Installa Jwt-Cracker${enda}";
+echo -e $b "254 Installa Jwt-Cracker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "255 ➢ Installa Md5-Password-Cracker${enda}";
+echo -e $b "255 Installa Md5-Password-Cracker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "256 ➢ Installa Flux${enda}";
+echo -e $b "256 Installa Flux${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "257 ➢ Installa WatWeb${enda}";
+echo -e $b "257 Installa WatWeb${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "258 ➢ Installa Tweetbot-Max${enda}";
+echo -e $b "258 Installa Tweetbot-Max${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "259 ➢ Installa SpamChat${enda}";
+echo -e $b "259 Installa SpamChat${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "260 ➢ Installa VulnScaner${enda}";
+echo -e $b "260 Installa VulnScaner${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "261 ➢ Installa IGP${enda}";
+echo -e $b "261 Installa IGP${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "262 ➢ Installa Termux-Os${enda}";
+echo -e $b "262 Installa Termux-Os${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "263 ➢ Installa PemulungBTC${enda}";
+echo -e $b "263 Installa PemulungBTC${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "264 ➢ Installa xNot_Found${enda}";
+echo -e $b "264 Installa xNot_Found${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "265 ➢ Installa T.DEF-09${enda}";
+echo -e $b "265 Installa T.DEF-09${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "266 ➢ Installa BotTroxSelf${enda}";
+echo -e $b "266 Installa BotTroxSelf${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "267 ➢ Installa Stagefright${enda}";
+echo -e $b "267 Installa Stagefright${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "268 ➢ Installa Spaghetti${enda}";
+echo -e $b "268 Installa Spaghetti${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "269 ➢ Installa Pencari-admin-Login${enda}";
+echo -e $b "269 Installa Pencari-admin-Login${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "270 ➢ Installa Tool-GalaulersV.3${enda}";
+echo -e $b "270 Installa Tool-GalaulersV.3${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "271 ➢ Installa LITETOOLS${enda}";
+echo -e $b "271 Installa LITETOOLS${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "272 ➢ Installa Tools${enda}";
+echo -e $b "272 Installa Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "273 ➢ Installa Hack-Tool${enda}";
+echo -e $b "273 Installa Hack-Tool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "274 ➢ Installa Awesome-Docker${enda}";
+echo -e $b "274 Installa Awesome-Docker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "275 ➢ Installa imgui${enda}";
+echo -e $b "275 Installa imgui${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "276 ➢ Installa RxTool${enda}";
+echo -e $b "276 Installa RxTool${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "277 ➢ Installa Windows-Hacks${enda}";
+echo -e $b "277 Installa Windows-Hacks${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "278 ➢ Installa Elixir-Tips${enda}";
+echo -e $b "278 Installa Elixir-Tips${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "279 ➢ Installa Chrome-Password-Hacking${enda}";
+echo -e $b "279 Installa Chrome-Password-Hacking${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "280 ➢ Installa BioInformatics-Hacks${enda}";
+echo -e $b "280 Installa BioInformatics-Hacks${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "281 ➢ Installa RaspberryPi-Packet-Sniffer${enda}";
+echo -e $b "281 Installa RaspberryPi-Packet-Sniffer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "282 ➢ Installa Code-Breaker${enda}";
+echo -e $b "282 Installa Code-Breaker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "283 ➢ Installa Andsploit${enda}";
+echo -e $b "283 Installa Andsploit${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "284 ➢ Installa Multilang-Fork-Bombs${enda}";
+echo -e $b "284 Installa Multilang-Fork-Bombs${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "285 ➢ Installa Typeracer-Hack${enda}";
+echo -e $b "285 Installa Typeracer-Hack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "286 ➢ Installa CoD4_Hacks${enda}";
+echo -e $b "286 Installa CoD4_Hacks${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "287 ➢ Installa TTR-Tools${enda}";
+echo -e $b "287 Installa TTR-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "288 ➢ Installa BW_Hacks${enda}";
+echo -e $b "288 Installa BW_Hacks${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "289 ➢ Installa CoD_Hacks${enda}";
+echo -e $b "289 Installa CoD_Hacks${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "290 ➢ Installa CIA-Hacking-Tools${enda}";
+echo -e $b "290 Installa CIA-Hacking-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "291 ➢ Installa Hack-Tools${enda}";
+echo -e $b "291 Installa Hack-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "292 ➢ Installa Hacking-Tools-Reposity${enda}";
+echo -e $b "292 Installa Hacking-Tools-Reposity${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "293 ➢ Installa Hacking-Tools${enda}";
+echo -e $b "293 Installa Hacking-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "294 ➢ Installa fbht${enda}";
+echo -e $b "294 Installa fbht${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "295 ➢ Installa DebianTools${enda}";
+echo -e $b "295 Installa DebianTools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "296 ➢ Installa Awesome-Hacking${enda}";
+echo -e $b "296 Installa Awesome-Hacking${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "297 ➢ Installa Car-Hacking-Tools${enda}";
+echo -e $b "297 Installa Car-Hacking-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "298 ➢ Installa Hacking-Tools${enda}";
+echo -e $b "298 Installa Hacking-Tools${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "300 ➢ Installa ZBOT-BotNet${enda}";
+echo -e $b "300 Installa ZBOT-BotNet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "301 ➢ Installa OverLoad-DoS${enda}";
+echo -e $b "301 Installa OverLoad-DoS${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "302 ➢ Installa PooleBotNet${enda}";
+echo -e $b "302 Installa PooleBotNet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "303 ➢ Installa Python-BotNet${enda}";
+echo -e $b "303 Installa Python-BotNet${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "304 ➢ Installa FB-Phishing${enda}";
+echo -e $b "304 Installa FB-Phishing${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "305 ➢ Installa King-Phisher${enda}";
+echo -e $b "305 Installa King-Phisher${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "306 ➢ Installa Extra-Phishing-Pages${enda}";
+echo -e $b "306 Installa Extra-Phishing-Pages${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "307 ➢ Installa Artemis${enda}";
+echo -e $b "307 Installa Artemis${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "308 ➢ Installa ss7MAPer${enda}";
+echo -e $b "308 Installa ss7MAPer${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "309 ➢ Installa ss5${enda}";
+echo -e $b "309 Installa ss5${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "310 ➢ Installa Gmail-Hack${enda}";
+echo -e $b "310 Installa Gmail-Hack${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "311 ➢ Installa Cc-Cheker${enda}";
+echo -e $b "311 Installa Cc-Cheker${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "312 ➢ Installa anonsec${enda}";
+echo -e $b "312 Installa anonsec${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "00. Esci${enda}";
 echo -e "========================================================" | lolcat
@@ -3009,4 +3009,3 @@ done
 
 #[081221215191]
 #[GILANG]
-
