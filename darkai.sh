@@ -37,7 +37,7 @@ echo  "╭─OpAnonIta                            __[=== o]___" |lolcat
 echo  "╰─https://opanonita.wordpress.com     |_ANONYMOUS_|) $green " |lolcat
 echo  "-NEL CODICE NOI CREDIAMO $green " |lolcat
 echo  "-Anonymous Italia $green " |lolcat
-echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
+echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 sleep 1
 
