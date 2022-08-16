@@ -98,7 +98,7 @@ echo -e $b "12 Installa LITESPAM${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "13 Installa Android-Malware${enda}";
 echo -e "========================================================" | lolcat
-echo -e $b "14 ➢ Installa SigPloit${enda}";
+echo -e $b "14 Installa SigPloit${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "15 Installa Sn1per${enda}";
 echo -e "========================================================" | lolcat
