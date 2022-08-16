@@ -36,7 +36,7 @@ echo -b "AUTORE   : @anovni1 $green " |lolcat
 echo -b "AUTORE   : TuanB4Dut $green " |lolcat
 echo -b "WEB      : OpAnonIta https://opanonita.wordpress.com $green " |lolcat
 echo -b "InfoSec  : NEL CODICE NOI CREDIAMO $green " |lolcat
-echo -b "NOTES     : Anonymous Italia " | lolcat
+echo -b "NOTES    : Anonymous Italia " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
