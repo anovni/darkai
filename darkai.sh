@@ -47,12 +47,12 @@ sleep 1
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
-echo -b $green"[#]> Thanks For Using My Tools" |lolcat
+echo -b $green"[#]> I TOOL CHE INSTALLI SONO DISPONIBILI NELLA DIRECTORY DARKAI " |lolcat
+echo -b $green"[#]> Grazie per aver utilizzato il nostro strumento" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> DARKAI è nel tuo sistema" |lolcat
 
-echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
+echo -b $green"[#]> NEL CODICE NOI CREDIAMO" |lolcat
 figlet TUAN B4DUT | lolcat
 sleep 1
 exit
@@ -67,7 +67,7 @@ echo ""
 echo ""
 
 echo -e "######################################" | lolcat
-echo -e "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
+echo -e "#ATTENDERE.. STO CARICANDO..TRA 3 2 1#" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
@@ -694,7 +694,7 @@ echo -e $b "311. Install Cc-Cheker${enda}";
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
-echo -e "╭─[PILIH NOMORNYA]"
+echo -e "╭─[SELEZIONA IL NUMERO]"
 read -p "   ╰─root@./darkai=" pil;
 
 # Nmap
