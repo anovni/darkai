@@ -32,10 +32,9 @@ echo  "           𝕀ℕ ℂ𝕆𝔻𝔼 𝕎𝔼 𝕋ℝ𝕌𝕊𝕋          
 echo  "INSTALLAZIONE HACKING TOOLS             |.-----.|" |lolcat
 echo  "-VERSIONE : v.1 IT                      ||x . x||" | lolcat 
 echo  "-TOTALE   : 312 TOOLS                   ||_.-._||" | lolcat
-echo  "-AUTORE   :@ANOVNI1                     °--)-(--°" | lolcat
+echo  "-AUTORE   : @ANOVNI1                     °--)-(--°" | lolcat
 echo  "╭─OpAnonIta                            __[=== o]___" |lolcat
 echo  "╰─https://opanonita.wordpress.com     |_ANONYMOUS_|) $green " |lolcat
-echo  "-NEL CODICE NOI CREDIAMO $green " |lolcat
 echo  "-Anonymous Italia $green " |lolcat
 echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
