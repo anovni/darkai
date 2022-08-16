@@ -688,14 +688,14 @@ echo -e $b "308. Install ss7MAPer${enda}";
 echo -e "============================" | lolcat
 echo -e $b "309. Install ss5${enda}";
 echo -e "============================" | lolcat
-echo -e $b "310. Install Gmail-Hack${enda}";
+echo -e $b "310. Installa Gmail-Hack${enda}";
 echo -e "============================" | lolcat
-echo -e $b "311. Install Cc-Cheker${enda}";
+echo -e $b "311. Installa Cc-Cheker${enda}";
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[SELEZIONA IL NUMERO]"
-read -p "   ╰─root@./darkai=" pil;
+read -p "╰─root@./darkai=" pil;
 
 # Nmap
 
