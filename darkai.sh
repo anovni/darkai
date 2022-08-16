@@ -2984,15 +2984,15 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
-echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
-echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+00) echo "AUTORE: ANOVNI" | lolcat
+echo "ABBIAMO ACCESSO AL TUO SISTEMA" | lolcat
+echo "ANOVNI & INDONESIAN TERMUX ASSOCIATION" | lolcat
+echo "TUTTI GLI STRUMENTI INSTALLATI SI TROVANO NELLA DIRECTORY DARKAI" | lolcat
+figlet DARKAI | lolcat
 exit
 ;;
 
-*) echo "Sorry, Your choices it's not already [T4T]"
+*) echo "Spiacenti, La tua scelta non è ancora pronta. [T4T]"
 esac
 done
 done
