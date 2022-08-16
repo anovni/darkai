@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet DARKAI  | lolcat
+figlet darkai  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TIPO     : Installazione Hacking Tools $green " |lolcat
@@ -53,7 +53,7 @@ sleep 1
 echo -b $green"[#]> DARKAI nel tuo sistema" |lolcat
 
 echo -b $green"[#]> NEL CODICE NOI CREDIAMO" |lolcat
-figlet DARKAI | lolcat
+figlet darkai | lolcat
 sleep 1
 exit
 }
@@ -2991,7 +2991,7 @@ echo -e "${y} GIÀ INSTALLATO.."
 echo "SIAMO NEL TUO SISTEMA" | lolcat
 echo "ANOVNI & INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "TUTTI GLI STRUMENTI INSTALLATI SI TROVANO NELLA DIRECTORY DARKAI" | lolcat
-figlet DARKAI | lolcat
+figlet darkai | lolcat
 exit
 ;;
 
