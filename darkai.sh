@@ -1,10 +1,10 @@
 #!/bin/bash
 #version 1.0
 
-#MAU NGAPAIN TOT?:V
-#RECODE?REEDIT?RECOPYRIGHT?COPAS?
-#MALU TOLOL!!!
-#KAGA BERMORAL!
+#COSA VUOI FARE?:V
+#RICODIFICARE? RIMODIFICARE? RECOPYRIGHT?
+#Questo è molto pericoloso.
+#Noi Siamo Anonymous!
 
 
 #01/08/18
@@ -26,17 +26,17 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet DARK'AI  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
-echo -b "VERSION   : V.3 " | lolcat
-echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
-echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "TIPO      : Installazione Hacking Tools $green " |lolcat
+echo -b "VERSIONE  : V.1 IT " | lolcat
+echo -b "TOTALE    : 312 TOOLS " | lolcat
+echo -b "AUTORE    : @anovni1 $green " |lolcat
+echo -b "AUTORE    : TuanB4Dut $green " |lolcat
+echo -b "WEB       : OpAnonIta https://opanonita.wordpress.com $green " |lolcat
+echo -b "InfoSec   : NEL CODICE NOI CREDIAMO $green " |lolcat
+echo -b "NOTA      : Anonymous Italia " | lolcat
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
