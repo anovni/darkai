@@ -2995,7 +2995,7 @@ echo -e "${y} GIÀ INSTALLATO.."
 ;;
 
 00) echo "AUTORE: ANOVNI & OpAnonIta" | lolcat
-echo "DARKAI NEL TUO SISTEMA" | lolcat
+echo "SIAMO NEL TUO SISTEMA" | lolcat
 echo "ANOVNI & INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "TUTTI GLI STRUMENTI INSTALLATI SI TROVANO NELLA DIRECTORY DARKAI" | lolcat
 figlet DARKAI | lolcat
