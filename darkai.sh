@@ -7,7 +7,7 @@
 #NOI SIAMO ANONYMOUS!
 
 
-#01/08/18
+#15/08/22
 
 clear
 # Variables
@@ -26,7 +26,7 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet DARK'AI  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
 echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
