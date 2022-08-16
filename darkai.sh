@@ -692,6 +692,8 @@ echo -e $b "310. Installa Gmail-Hack${enda}";
 echo -e "========================================================" | lolcat
 echo -e $b "311. Installa Cc-Cheker${enda}";
 echo -e "========================================================" | lolcat
+echo -e $b "312. Installa anonsec${enda}";
+echo -e "========================================================" | lolcat
 echo -e $b "00. Esci${enda}";
 echo -e "========================================================" | lolcat
 echo -e "╭─[SELEZIONA IL NUMERO]"
