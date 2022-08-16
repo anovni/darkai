@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> I TOOL CHE INSTALLI SONO DISPONIBILI NELLA DIRECTORY DARKAI " |lolcat
 echo -b $green"[#]> Grazie per aver utilizzato il nostro strumento." |lolcat
 sleep 1
-echo -b $green"[#]> darkai nel tuo sistema" |lolcat
+echo -b $green"[#]> dark'ai nel tuo sistema" |lolcat
 
 echo -b $green"[#]> Nel codice noi crediamo" |lolcat
-figlet darkai | lolcat
+figlet dark'ai | lolcat
 sleep 1
 exit
 }
@@ -2998,7 +2998,7 @@ echo -e "${y} GIÀ INSTALLATO.."
 echo "DARKAI NEL TUO SISTEMA" | lolcat
 echo "ANOVNI & INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "TUTTI GLI STRUMENTI INSTALLATI SI TROVANO NELLA DIRECTORY DARKAI" | lolcat
-figlet DARKAI | lolcat
+figlet DARK'AI | lolcat
 exit
 ;;
 
