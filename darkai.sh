@@ -28,16 +28,16 @@ red='\e[1;31m'
 
 figlet DARKAI  | lolcat
 
-echo  "_____________________________________________________________" | lolcat
-echo  "TIPO     : Installazione Hacking Tools $green " |lolcat
-echo  "VERSIONE : v.1 IT " | lolcat
-echo -b "TOTALE   : 311 TOOLS " | lolcat
-echo -b "AUTORE   : @anovni1 $green " |lolcat
-echo -b "AUTORE   : TuanB4Dut $green " |lolcat
-echo -b "WEB      : OpAnonIta https://opanonita.wordpress.com $green " |lolcat
-echo -b "InfoSec  : NEL CODICE NOI CREDIAMO $green " |lolcat
-echo -b "NOTES    : Anonymous Italia " | lolcat
-echo -b "_____________________________________________________________" | lolcat
+echo  " Installazione Hacking Tools        _______" | lolcat
+echo  " VERSIONE : v.1 IT                 |.-----.|" |lolcat
+echo  " TOTALE   : 312 TOOLS              ||x . x||" | lolcat 
+echo  " AUTORE   : TuanB4Dut              ||_.-._||" | lolcat
+echo  " EDITING  : @ANOVI1                `--)-(--`"
+echo  "╭─OpAnonIta                       __[=== o]___" |lolcat
+echo  "╰─https://opanonita.wordpress.com| ANONYMOUS:|\ $green " |lolcat
+echo  " NEL CODICE NOI CREDIAMO         `-=========-`() $green " |lolcat
+echo  " Anonymous Italia $green " |lolcat
+echo  "°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°" | lolcat
 
 sleep 1
 
