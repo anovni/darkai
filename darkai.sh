@@ -2624,7 +2624,7 @@ echo -e "${y} GIÀ INSTALLATO!"
 
 #Install VulnScanner
 
-260) git clone git clone https://github.com/kereh/VulnScaner
+260) git clone https://github.com/kereh/VulnScaner
 echo -e "${y} GIÀ INSTALLATO!"
 
 ;;
