@@ -1,6 +1,7 @@
 # ➢ darkai 100% IN ITALIANO
 
-![main menu](https://user-images.githubusercontent.com/78624983/184999414-f76fde41-6e70-4dc0-a0c4-0f945d3c8b0a.jpg)
+![main menù](https://user-images.githubusercontent.com/78624983/185513505-cb5c59bd-20b4-4942-8014-b135c68b0287.jpg)
+
 
 
 # ➢ Benvenuto! 💻
