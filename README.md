@@ -14,7 +14,7 @@
 
 ➢ Il mio obiettivo è quello di metterli insieme collettivamente in lingua italiana modo che siano compilabili e aiutare le persone interessate alla ricerca e imparare da questi campioni.
 
-# ⚠️ COME USARE DARKAI!
+# ⚠️ COME USARE DARKAI
 
 ![darkai menu tools](https://user-images.githubusercontent.com/78624983/184938775-fa728293-73e0-42dd-801f-bc78274ea897.jpg)
 
